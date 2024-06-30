@@ -1,0 +1,6 @@
+1. Use of Class<?>
+    It is used to hold class type object
+    use of object.getClass()
+    use of static class name Class.forName("Book");
+    File Name :- GenericClass.java
+2. Use of different class in Class<?>
